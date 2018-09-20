@@ -1,0 +1,6 @@
+app 流水   /sdcard/hzdongcheng/logs/app/log
+app crash  /sdcard/hzdongcheng/logs/app/error
+app 数据   /sdcard/hzdongcheng/data/app/databases
+dev 流水   /sdcard/hzdongcheng/logs/driverapp/log
+dev 数据   /sdcard/hzdongcheng/data/driverapp/config
+dev crash  /sdcard/hzdongcheng/logs/driverapp/error
