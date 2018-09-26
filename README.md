@@ -1,2 +1,2 @@
 # DCDZ
-上传带签名版本DcDzUpdata-1.1.0-Android 4.4.2.apk和DcDzUpdata-1.1.0-Android 7.1.2.apk 
+上传带签名版本DcDzUpdate-Android4.4.2-1.1.0.apk 和 DcDzUpdate-Android7.1.2-1.1.0.apk
